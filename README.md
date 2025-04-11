@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Kristian David
+Passionate and innovative Fresh Graduate in Informatics from Diponegoro University with a strong focus on web development and software engineering. Experienced in frontend and fullstack web development, I bring a dynamic approach to creating responsive and user-centric digital solutions.
 
-<!--
-**kristiandavidd/kristiandavidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+- Frontend: React, Next.js, TailwindCSS
+- Backend: Node.js, Express
+- Database: PostgreSQL, MySQL, MongoDB
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Kristian David's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristiandavidd&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's connect!
+- LinkedIn: [linkedin.com/in/kristiandavidd](https://linkedin.com/in/kristiandavidd)
+- Portfolio: [invrspace.com](https://invrspace.com)
