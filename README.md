@@ -1,15 +1,28 @@
 # 👋 Hi, I'm Kristian David
-Passionate and innovative Fresh Graduate in Informatics from Diponegoro University with a strong focus on web development and software engineering. Experienced in frontend and fullstack web development, I bring a dynamic approach to creating responsive and user-centric digital solutions.
 
-## 🚀 Tech Stack
-- Frontend: React, Next.js, TailwindCSS
-- Backend: Node.js, Express
-- Database: PostgreSQL, MySQL, MongoDB
+**Fullstack Software Engineer focused on building useful products, solving real problems, and creating meaningful impact through technology.**
 
-## 📊 GitHub Stats
-![Kristian David's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristiandavidd&show_icons=true&theme=radical)
+Passionate about product development, thoughtful engineering, and turning ideas into simple, reliable experiences.
 
-## 📫 Let's connect!
-- LinkedIn: [linkedin.com/in/kristiandavidd](https://linkedin.com/in/kristiandavidd)
-- Portfolio: [kristiandav.id](https://kristiandav.id)
-- Portfolio PDF: [about me!](https://surn.me/portfolio)
+Always learning, always building, and always looking for better ways to create value.
+
+## 🛠️ Tech Stack
+
+### Languages
+PHP · JavaScript · TypeScript
+
+### Frameworks
+Laravel · React.js · Next.js · Node.js · Express.js
+
+### Database
+MySQL · PostgreSQL
+
+### Tools & Technologies
+Git · REST API · WebSocket · AWS · Azure
+
+## 🔗 Find Me Online
+
+- 💼 [LinkedIn](https://linkedin.com/in/kristiandavidd)
+- 🌐 [Portfolio](https://kristiandav.id)
+- 📄 [Portfolio PDF](https://surn.me/portfolio)
+- 📧 [Email](mailto:kristiandavid@dephilia.com)
