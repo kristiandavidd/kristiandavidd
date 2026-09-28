@@ -11,4 +11,5 @@ Passionate and innovative Fresh Graduate in Informatics from Diponegoro Universi
 
 ## 📫 Let's connect!
 - LinkedIn: [linkedin.com/in/kristiandavidd](https://linkedin.com/in/kristiandavidd)
-- Portfolio: [invrspace.com](https://invrspace.com)
+- Portfolio: [kristiandav.id](https://kristiandav.id)
+- Portfolio PDF: [about me!](https://surn.me/portfolio)
